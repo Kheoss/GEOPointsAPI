@@ -1,0 +1,17 @@
+{
+  "name": "apigeopoints",
+  "version": "0.0.1",
+  "description": "api server for geo points",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vlad Constantinescu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mariadb": "^2.1.0",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.10.1"
+  }
+}
